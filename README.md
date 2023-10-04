@@ -45,7 +45,7 @@
   ```
 - Commit your changes
   ```shell
-  git commit -m 'feat: add some feature on user').
+  git commit -m 'feat: add some feature on user'
   ```
 - Push to the branch
   ```shell
